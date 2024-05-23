@@ -1,0 +1,1 @@
+"Desenvolvi uma aplicação para aprimorar minhas habilidades em Java.A aplicação em questão é uma loja de carros, na qual é possível realizar operações como adicionar, excluir, consultar e atualizar informações sobre os veículos. Para construir esse sistema, utilizei os princípios do CRUD.”
